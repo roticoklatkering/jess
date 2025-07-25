@@ -1,0 +1,11 @@
+# Trading parameters
+btc_dominance: 48.3
+btc_atr_1h: 0.02
+funding_rate: 0.0001
+volume_ratio: 0.75
+ema_distance: 4.8    # Note: Changed from 0.048 to percentage value
+volume_spike: 3.7
+wick_ratio: 0.6
+vwap_deviation: 0.05
+liquidation_proximity: 1.5
+rsi_threshold: 70    # Add this new parameter
